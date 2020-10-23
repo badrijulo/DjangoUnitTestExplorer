@@ -1,1 +1,1 @@
-# DjangoUnitTestExplorer 2
+# DjangoUnitTestExplorer 2.2.2
